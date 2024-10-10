@@ -1,15 +1,13 @@
 ** Thank you, Hichem, for your insightful presentation. **
+---
 
-
-# Presentation: Interpersonal Relationships
-
-## Slide 1: What are Interpersonal Relationships?
+## What are Interpersonal Relationships?
 
 Let’s dive straight into what we mean by **interpersonal relationships**. Simply put, these are the connections we form with others, whether it’s at work, with friends, or even in everyday interactions.
 
 At the heart of it, we’re talking about how we relate to others, how we understand them, and how we manage our interactions. It’s about creating meaningful connections that can either help us work better together or strengthen our personal bonds.
 
-## Slide 2: Key Components of Interpersonal Relationships
+## Key Components of Interpersonal Relationships
 
 Now, what makes an interpersonal relationship strong? Well, there are a few key pieces we need to focus on:
 
@@ -23,7 +21,7 @@ Now, what makes an interpersonal relationship strong? Well, there are a few key 
 
 - **Collaboration**: Finally, there’s collaboration. When we work together with mutual respect and value each other's ideas, things get done more smoothly, and the team thrives.
 
-## Slide 3: The Impact of Strong Interpersonal Relationships
+## The Impact of Strong Interpersonal Relationships
 
 So, what happens when we nail these aspects of interpersonal relationships? Well, the impact can be pretty powerful:
 
@@ -37,7 +35,7 @@ So, what happens when we nail these aspects of interpersonal relationships? Well
 
 - **Enhanced Leadership**: Leaders who build these kinds of connections inspire loyalty and commitment from their teams. It becomes easier to lead when people genuinely trust and respect you.
 
-## Slide 4: Conclusion
+## Conclusion
 
 To wrap up, interpersonal relationships are truly the backbone of how we connect, both personally and professionally. When we focus on building **trust**, practicing **empathy**, communicating well, resolving conflicts calmly, and working together with respect, we create strong, lasting connections that make life—and work—better.
 
